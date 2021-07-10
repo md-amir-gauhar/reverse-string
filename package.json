@@ -1,0 +1,23 @@
+{
+  "name": "@mdamirgauhar/reverse-string",
+  "version": "1.0.0",
+  "description": "Get reversed string: \\\"My Name is Amir\\\" => \\\"rima si eman ym\\\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-amir-gauhar/reverse-string.git"
+  },
+  "keywords": [
+    "reverse",
+    "string"
+  ],
+  "author": "Md Amir Gauhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-amir-gauhar/reverse-string/issues"
+  },
+  "homepage": "https://github.com/md-amir-gauhar/reverse-string#readme"
+}
